@@ -1,4 +1,9 @@
-### Hi there 👋
+(https://github.com/izzdwizz/Izzdwizz/assets/71931658/104763b0-a253-493b-b6f3-01f085de24f9) Izuchukwu Uchendu
+
+
+**`Web Developer (Frontend)`**
+
+I'm an interesting frontend developer fueled by a passion for creating seamless user experiences and an unwavering pursuit of innocation, I consistently bring a discerning eye for design and an unyielding drive to elevate projects to new heights of success...or so I've been told lol.
 
 <!--
 **izzdwizz/Izzdwizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +11,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...![6722805]
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
