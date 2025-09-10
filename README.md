@@ -30,7 +30,7 @@ I'm an interesting frontend developer fueled by a passion for creating seamless 
 
 <details>
 
-  <summary><h3>🎞️ My Coding Journey</h3></summary>
+  <summary><h3>🎞️The Journey so far</h3></summary>
 My journey began in 2017 when I worked with Munarealestate, a real estate company focused on providing affordable housing to citizens in Nigeria. I was responsible for updating content on their WordPress website, ensuring a seamless user experience and smooth navigation.
 In 2019, I transitioned to working with HTML, vanilla JavaScript, and CSS when I had the opportunity to build Elielsngs’ ecommerce website. Collaborating with a team, I created interactive user interfaces for viewing various store items and implemented a functional shopping cart system. This project allowed me to showcase my skills in frontend development and contributed to an enhanced user experience.
 During my internship at Bluetag Technologies in 2021, I explored backend development while primarily working with C# and other dotnet packages. I built console applications, simulated systems, and utilized entity framework for efficient database management. However, my passion for frontend development drove me to specialize in this field. Immediately after my internship, I delved into React to build compelling component-based user interfaces. I gained proficiency in state management and mastered leveraging React hooks to interact with RESTful APIs, as well as mastering other styling libraries such as SCSS, Tailwind and AntDesgin.
