@@ -2,13 +2,12 @@
 
 **`Frontend Engineer`**
 
-I'm an interesting frontend developer fueled by a passion for creating seamless user experiences and an unwavering pursuit of innocation, I consistently bring a discerning eye for design and an unyielding drive to elevate projects to new heights of success. 
-
+I'm a developer fueled by a passion for creating seamless user experiences.
 ---
 ### 🧰 Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" style="padding-right:10px" align="left" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt='next-js' width="40px" style="padding-right:10px,background: #fefefe" align="left"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt='next-js' width="40px" style="padding-right:10px;background: #fefefe" align="left"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" style="padding-right:10px" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" style="padding-right:10px" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="padding-right:10px" align="left" />
