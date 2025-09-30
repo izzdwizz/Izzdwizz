@@ -1,6 +1,6 @@
 ## ☯️Izuchukwu Uchendu
 
-**`Frontend Engineer`**
+**`Software Engineer`**
 
 I'm a developer fueled by a passion for creating seamless user experiences.
 ---
@@ -21,7 +21,7 @@ I'm a developer fueled by a passion for creating seamless user experiences.
 <br></br>
 ---
 ### 🧑‍💻 General Statistics
-![Izuchukwu's Github Stats](https://github-readme-stats.vercel.app/api?username=izzdwizz&show_icons=true&theme=gruvbox)
+![Izuchukwu's Github Stats](https://github-readme-stats.vercel.app/api?username=izzdwizz&show_icons=true&theme=gruvbox&number=3)
           
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzdwizz&size_weight=0.5&count_weight=0.5&theme=gruvbox)
 
